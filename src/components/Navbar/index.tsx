@@ -23,7 +23,7 @@ const Navbar = () => {
                     <div className='collapse navbar-collapse' id='dscatalog-navbar'>
                         <ul className='navbar-nav offset-md-2 main-menu'>
                             <li><a href="link" className='active'>Home</a></li>
-                            <li><a href="link">CATALÓGO</a></li>
+                            <li><a href="link">CATÁLOGO</a></li>
                             <li><a href="link">ADMIN</a></li>
                         </ul>
                     </div>
